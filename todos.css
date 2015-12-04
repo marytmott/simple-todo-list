@@ -33,6 +33,15 @@ ul li {
   font-size:22px;
 }
 
+.delete {
+  color: white;
+  float: right;
+}
+
+.delete:hover {
+  color: #FF6666;
+}
+
 .completed {
   text-decoration:line-through;
   color:#eee;
